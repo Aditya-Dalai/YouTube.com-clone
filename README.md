@@ -6,7 +6,7 @@ A static and responsive clone of the YouTube homepage built using only **HTML5**
 
 ## 🔗 Visit the Website
 
-👉 [Click here to view the clone]([https://your-live-site-link.com](https://aditya-dalai.github.io/YouTube-clone/))
+👉 [Click here to view the clone](https://aditya-dalai.github.io/YouTube-clone/)
 
 Experience a simplified but realistic YouTube interface recreated using just HTML and CSS.
 
