@@ -1,0 +1,47 @@
+.category-bar {
+      display: flex;
+      flex-direction: row;
+      position: fixed;
+      top: 40px;
+      left: 72px;
+      right: 0;
+      z-index: 50;
+      overflow-x: auto;
+      gap: 12px;
+      padding-top: 28px;
+      padding-left: 25px;
+      padding-bottom: 12px;
+      background-color: rgb(255, 255, 255);
+      scrollbar-width: none;
+      
+    }
+
+    .category-bar::-webkit-scrollbar {
+      display: none;
+    }
+
+    .category-button {
+      white-space: nowrap;
+      padding: 8px 12px;
+      background-color: #ebebeb;
+      border-radius: 8px;
+      font-size: 14px;
+      font-family: Roboto, Arial;
+      font-weight: 500;
+      color: #0f0f0f;
+      cursor: pointer;
+      border: none;
+    }
+
+    .category-button-all {
+        background-color: #0f0f0f;
+        color: white;
+        white-space: nowrap;
+        padding: 8px 12px;
+        border-radius: 8px;
+        font-size: 14px;
+        font-family: Roboto, Arial;
+        font-weight: 500;
+        cursor: pointer;
+        border: none;
+    }
