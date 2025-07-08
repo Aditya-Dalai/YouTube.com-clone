@@ -1,3 +1,25 @@
+.shorts-title-logo {
+    height: 40px;
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 18px;
+    margin-left: 5px;
+}
+
+.shorts-title-logo img {
+    height: 36px;
+    width: 100%;
+}
+
+.shorts-title-logo p {
+    font-size: 22px;
+    font-family: Roboto, Arial;
+    font-weight: bolder;
+}
+
 .shorts-grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
