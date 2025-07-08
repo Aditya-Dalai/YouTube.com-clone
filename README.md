@@ -20,23 +20,6 @@ Experience a simplified but realistic YouTube interface recreated using just HTM
 
 ---
 
-## 🧠 Features
-
-- Static clone of YouTube’s homepage
-- Responsive layout for desktop, tablet, and mobile
-- Header with search bar, logo, and profile icon
-- Sidebar with navigation link buttons (like Home, Subscriptions)
-- Video grid layout mimicking YouTube's video thumbnails
-
----
-
-## 🚧 To-Do / Future Enhancements
-
-- Dark theme
-- update UI to latest YouTube's UI
-
----
-
 ## 👨‍💻 Author
 
 **Aditya Dalai**  
