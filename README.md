@@ -12,14 +12,6 @@ Experience a simplified but realistic YouTube interface recreated using just HTM
 
 ---
 
-## 🛠️ Built With
-
-- HTML5  
-- CSS3 (Flexbox, Grid, Media Queries)
-- 💻 Fully responsive design
-
----
-
 ## 👨‍💻 Author
 
 **Aditya Dalai**  
